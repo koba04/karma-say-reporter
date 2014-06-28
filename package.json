@@ -1,0 +1,30 @@
+{
+  "name": "karma-say-reporter",
+  "version": "0.1.0",
+  "description": "Karma reporter by say command",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/base.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koba04/karma-say-reporter.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-reporter",
+    "say"
+  ],
+  "author": "koba04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koba04/karma-say-reporter/issues"
+  },
+  "homepage": "https://github.com/koba04/karma-say-reporter",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "tape": "^2.13.3"
+  }
+}
