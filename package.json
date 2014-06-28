@@ -1,7 +1,7 @@
 {
   "name": "karma-say-reporter",
   "version": "0.1.0",
-  "description": "Karma reporter by say command",
+  "description": "A Karma reporter plugin. Reports overall results by OSX 'say' command",
   "main": "index.js",
   "scripts": {
     "test": "node test/base.js"
